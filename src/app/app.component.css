@@ -1,0 +1,35 @@
+.route-map-first{
+    width: 1200px;
+    height:600px;
+    background-color: aqua;
+    margin: 0px auto;
+    margin-top: 100px;
+}
+
+.second-div{
+   
+    width: 900px;
+    height: 400px;
+    margin: 0px auto;
+    margin-top: 30px;
+    border-radius: 13px;
+}
+
+.second-div-one{
+    padding: 10px;
+    margin-top: 10px;
+    background-color: blue;
+    
+}
+
+.second-div-two{
+    width: 900px;
+    height: 400px;
+    margin: 0px auto;
+}
+
+
+
+.sp{
+    margin-left: 20px;
+}
